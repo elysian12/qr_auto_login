@@ -1,4 +1,4 @@
-package com.example.qr_auto_login
+package com.elysian.autoqr
 
 import io.flutter.embedding.android.FlutterActivity
 

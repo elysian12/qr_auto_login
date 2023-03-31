@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "414176863917",
+    "project_id": "silaan",
+    "storage_bucket": "silaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414176863917:android:93423d8246c78d5fa40824",
+        "android_client_info": {
+          "package_name": "com.elysian.autoqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKQiddPUpuxVE7UMiLgVvdWlyK5vZJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414176863917-9njegcjj7gqm1u7re30e8kj39g5ra7g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outshade.silaan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414176863917:android:95e741009ef2cf66a40824",
+        "android_client_info": {
+          "package_name": "com.outshade.silaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414176863917-92ehi2h26u1eams5ovaf2in03j23bati.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan",
+            "certificate_hash": "8b6a9febc323d5ad60ffca99f2c24f53993c5add"
+          }
+        },
+        {
+          "client_id": "414176863917-rg4v30bpr6bg2dikfea7k43grlv13k6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan",
+            "certificate_hash": "136f2c1ac1d387211545be8cc4c5d9ae97cdbb20"
+          }
+        },
+        {
+          "client_id": "414176863917-u0sn26o7nsfj83jf81df7j028acvdcfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan",
+            "certificate_hash": "8b3de013250244b7ad4e77d002e51509e597eb51"
+          }
+        },
+        {
+          "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKQiddPUpuxVE7UMiLgVvdWlyK5vZJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414176863917-9njegcjj7gqm1u7re30e8kj39g5ra7g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outshade.silaan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414176863917:android:1ed85b0afed9afdaa40824",
+        "android_client_info": {
+          "package_name": "com.outshade.silaan_logistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414176863917-9fhfdhmb2k030as1nullb6a77itui5us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan_logistic",
+            "certificate_hash": "058aac563cea20ad0d1ea48a295e0c5309bca845"
+          }
+        },
+        {
+          "client_id": "414176863917-e3cr34a12rsvl7t56a02llrub51c855a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan_logistic",
+            "certificate_hash": "672ee4377258b90f4f8ee76b928dfb98cbd02b1a"
+          }
+        },
+        {
+          "client_id": "414176863917-hrpejc8npl4d6peb7admrpct8vemuvjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan_logistic",
+            "certificate_hash": "8b3de013250244b7ad4e77d002e51509e597eb51"
+          }
+        },
+        {
+          "client_id": "414176863917-okrbu7u14l71b1c0r0ol8b8hdst0rn2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outshade.silaan_logistic",
+            "certificate_hash": "8b6a9febc323d5ad60ffca99f2c24f53993c5add"
+          }
+        },
+        {
+          "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsKQiddPUpuxVE7UMiLgVvdWlyK5vZJ0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414176863917-dh4aoiah5ic565cujknv3bmjsngld6jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414176863917-9njegcjj7gqm1u7re30e8kj39g5ra7g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outshade.silaan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
